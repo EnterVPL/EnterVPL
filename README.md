@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="left" height="130px">
+  <a href="https://github.com/EnterVPL">
+    <img align="" height='100%' src="https://github-readme-stats.vercel.app/api?username=EnterVPL&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0000&text_color=2f80ed&count_private=true">
+    <img align="" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnterVPL&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
+  </a>
+</p>
+
+![page views](https://komarev.com/ghpvc/?username=EnterVPL&color=brightgreen)
+
 <!--
 **EnterVPL/EnterVPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
