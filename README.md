@@ -10,8 +10,8 @@
 ![page views](https://komarev.com/ghpvc/?username=EnterVPL&color=brightgreen)
 
 ### Some news about me ✨
-- 🔭 I’m currently working on [FoxSimulator](https://github.com/EnterVPL/FoxSymulator), [K-8-0](https://github.com/EnterVPL/K-8-0) and [Ruby course](https://github.com/EnterVPL/learn_ruby)
-- 🌱 I’m currently learning Ruby, Dart and Flutter
+- 🔭 I’m currently working on the Tavingo and the Async Timer
+- 🌱 I’m currently study the Laravel, more JS features, the WP, the Elementor
 
 <!--
 **EnterVPL/EnterVPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
