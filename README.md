@@ -9,11 +9,12 @@
 
 ![page views](https://komarev.com/ghpvc/?username=EnterVPL&color=brightgreen)
 
+<!--
 ### Some news about me ✨
 - 🔭 I’m currently working on the Tavingo and the Async Timer
 - 🌱 I’m currently study the Laravel, more JS features, the WP, the Elementor
 
-<!--
+
 **EnterVPL/EnterVPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
