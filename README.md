@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Currently working on
-- https://github.com/Enlumop/discord-webhook-client
 
 <p align="left" height="130px">
   <a href="https://github.com/EnterVPL">
